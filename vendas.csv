@@ -1,0 +1,25 @@
+Produto,Categoria,Quantidade,Preco,Cidade,Mes
+RTX 4060,Hardware,8,2200,Manaus,Janeiro
+Ryzen 5600,Hardware,12,900,Manaus,Janeiro
+SSD 1TB,Hardware,20,350,Manaus,Fevereiro
+Fonte 650W,Hardware,15,450,Manaus,Fevereiro
+Monitor 144Hz,Perifericos,10,1200,Manaus,Marco
+Mouse Gamer,Perifericos,25,180,Manaus,Marco
+Teclado Mecanico,Perifericos,18,250,Manaus,Abril
+RTX 4060,Hardware,6,2200,Belem,Abril
+Ryzen 5600,Hardware,10,900,Belem,Maio
+SSD 1TB,Hardware,18,350,Belem,Maio
+Fonte 650W,Hardware,12,450,Belem,Junho
+Monitor 144Hz,Perifericos,8,1200,Belem,Junho
+Mouse Gamer,Perifericos,20,180,Santarem,Julho
+Teclado Mecanico,Perifericos,15,250,Santarem,Julho
+RTX 4060,Hardware,7,2200,Santarem,Agosto
+Ryzen 5600,Hardware,9,900,Santarem,Agosto
+SSD 1TB,Hardware,16,350,Macapa,Setembro
+Fonte 650W,Hardware,14,450,Macapa,Setembro
+Monitor 144Hz,Perifericos,9,1200,Macapa,Outubro
+Mouse Gamer,Perifericos,22,180,Macapa,Outubro
+Teclado Mecanico,Perifericos,17,250,Macapa,Novembro
+RTX 4060,Hardware,5,2200,Macapa,Novembro
+Ryzen 5600,Hardware,11,900,Macapa,Dezembro
+SSD 1TB,Hardware,19,350,Macapa,Dezembro
