@@ -1,3 +1,13 @@
+"""
+Análise de Vendas de Produtos de Informática
+
+Autor: Marcus Vinicius Almeida
+
+Objetivo:
+Realizar análise exploratória de dados de vendas utilizando
+Python, Pandas e Matplotlib, gerando métricas de faturamento
+e visualizações gráficas para apoio à tomada de decisão.
+"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
